@@ -1,3 +1,34 @@
+# PROYECTO BÁSICO DE REACT: TO DO LIST
+![](https://i.pinimg.com/originals/36/c8/f0/36c8f05208d34f3b90d8723bf4ddbcad.png)
+
+Proyecto básico en el aprendizaje de React: web para gestión de tareas.
+
+## Características
+- Mock-up de la página.
+- Dominio de JS, HTML y CSS como base para el aprendizaje de un framework nuevo: REACT.
+- Uso de Hooks, States.
+- Uso de distintos componentes.
+- Uso de formularios.
+- Página responsiva.
+
+## Tecnologías usadas
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+## 🚀 Raquel Rodríguez Sebastián
+
+Me llamo Raquel y estoy empezando en el mundo del desarrollo web. Hice un bootcamp intensivo de Javascript y este fue mi primer acercamiento a React. 
+
+Fui capaz de desarrollar una Lista de Tareas con un Mock up y una línea estética muy bien definida, así como realizar la modificación y el borrado de cada una de las tareas.
+
+### 💌 Contacto
+Si quieres seguir mi progreso sígueme en mis Redes Sociales:
+
+[![github](https://img.shields.io/static/v1?label=&message=github&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://github.com/raquelguez)
+[![linkedin](https://img.shields.io/static/v1?label=&message=linkedin&color=0e76a8&logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/raquelrodríguezsebastián/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
